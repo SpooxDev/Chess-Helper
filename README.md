@@ -33,7 +33,7 @@
 
 ## 🚀 Как запустить
 
-1. Скачай index.html из раздела [Releases](../../releases).
+1. Скачай Chess-Helper.html из раздела [Releases](../../releases).
 2. Открой файл в любом современном браузере (Chrome, Edge, Firefox, Safari).
 3. Выбери свой цвет, скорость ИИ и нажми «Начать игру».
 
